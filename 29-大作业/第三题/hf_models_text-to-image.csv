@@ -1,0 +1,101 @@
+model_id,downloads,likes,pipeline_tag,task_name,library_name,frameworks,license,arxiv,param_count,size_category,created_at,last_modified
+stable-diffusion-v1-5/stable-diffusion-v1-5,1675219,1202,text-to-image,Text to Image,diffusers,"diffusers, safetensors",creativeml-openrail-m,2207.12598,859520964,100M-1B,2024-08-30T09:48:48.000Z,2024-09-07T16:20:30.000Z
+stabilityai/stable-diffusion-xl-base-1.0,1427581,7967,text-to-image,Text to Image,diffusers,"diffusers, onnx, safetensors",openrail++,2307.01952,2567463684,1B-5B,2023-07-25T13:25:51.000Z,2023-10-30T16:03:47.000Z
+Tongyi-MAI/Z-Image-Turbo,1071391,5029,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,2511.22699,6154908736,5B-10B,2025-11-25T15:09:48.000Z,2026-01-30T16:58:07.000Z
+stabilityai/sdxl-turbo,948285,2602,text-to-image,Text to Image,diffusers,"diffusers, onnx, safetensors",other,,2567463684,1B-5B,2023-11-27T15:19:11.000Z,2024-07-10T11:33:43.000Z
+Lykon/dreamshaper-7,889241,63,text-to-image,Text to Image,diffusers,"diffusers, safetensors",creativeml-openrail-m,,859520964,100M-1B,2023-08-26T16:49:11.000Z,2023-12-07T10:13:17.000Z
+black-forest-labs/FLUX.1-dev,595003,13741,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,11901408320,10B-20B,2024-07-31T21:13:44.000Z,2025-06-27T16:22:19.000Z
+stabilityai/sd-turbo,517503,455,text-to-image,Text to Image,diffusers,"diffusers, safetensors",,,865910724,100M-1B,2023-11-27T16:41:20.000Z,2024-07-10T11:38:51.000Z
+SG161222/Realistic_Vision_V5.1_noVAE,510152,260,text-to-image,Text to Image,diffusers,"diffusers, safetensors",creativeml-openrail-m,,859520964,100M-1B,2023-07-31T05:20:51.000Z,2025-10-30T16:55:47.000Z
+CompVis/stable-diffusion-v1-4,455526,7043,text-to-image,Text to Image,diffusers,"diffusers, safetensors",creativeml-openrail-m,2207.12598,859520964,100M-1B,2022-08-20T13:26:13.000Z,2023-08-23T21:15:42.000Z
+Jonjew/GetphatFLUXRealityNSFW,437041,1,text-to-image,Text to Image,diffusers,diffusers,unknown,,,Unknown,2025-05-10T23:17:19.000Z,2025-05-11T01:17:41.000Z
+lightx2v/Qwen-Image-Lightning,398401,811,text-to-image,Text to Image,diffusers,diffusers,apache-2.0,,,Unknown,2025-08-09T14:57:18.000Z,2025-11-03T11:20:08.000Z
+wikeeyang/Flux2-Klein-9B-True-V2,302530,173,text-to-image,Text to Image,diffusers,"diffusers, gguf",other,,,Unknown,2026-03-26T08:44:12.000Z,2026-07-13T11:28:53.000Z
+optimum-intel-internal-testing/tiny-stable-diffusion-torch,276577,0,text-to-image,Text to Image,diffusers,diffusers,apache-2.0,,,Unknown,2025-10-21T10:06:03.000Z,2025-10-21T10:06:04.000Z
+optimum-intel-internal-testing/tiny-random-stable-diffusion-xl,248161,0,text-to-image,Text to Image,diffusers,diffusers,apache-2.0,,,Unknown,2025-10-21T10:06:16.000Z,2025-10-21T10:06:19.000Z
+nphSi/Z-Image-Lora,244714,130,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,,,Unknown,2025-12-01T06:21:24.000Z,2026-07-22T09:44:27.000Z
+black-forest-labs/FLUX.1-schnell,244667,5402,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,,11891178560,10B-20B,2024-07-31T19:58:05.000Z,2024-08-16T14:37:56.000Z
+cagliostrolab/animagine-xl-4.0,240584,465,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail++,,2567463684,1B-5B,2025-01-10T17:51:13.000Z,2025-02-13T16:16:46.000Z
+playgroundai/playground-v2.5-1024px-aesthetic,229051,768,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,2206.00364,2567463684,1B-5B,2024-02-16T18:46:17.000Z,2024-03-15T00:00:20.000Z
+Lykon/DreamShaper,223965,1014,text-to-image,Text to Image,diffusers,diffusers,other,,,Unknown,2023-01-12T09:14:06.000Z,2024-04-14T10:07:25.000Z
+stabilityai/stable-diffusion-3.5-medium,223221,1016,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,2403.03206,2469663936,1B-5B,2024-10-29T10:27:32.000Z,2024-10-31T08:18:43.000Z
+LyliaEngine/Pony_Diffusion_V6_XL,219642,135,text-to-image,Text to Image,diffusers,diffusers,cdla-permissive-2.0,,,Unknown,2024-05-25T09:04:55.000Z,2024-05-25T09:45:40.000Z
+krea/Krea-2-Turbo,212478,684,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,12820073036,10B-20B,2026-06-18T04:50:10.000Z,2026-07-20T05:48:50.000Z
+optimum-intel-internal-testing/stable-diffusion-3-tiny-random,208366,0,text-to-image,Text to Image,diffusers,"diffusers, safetensors",,,302736,<100M,2025-10-21T10:06:30.000Z,2025-10-21T10:06:33.000Z
+RunDiffusion/Juggernaut-XL-v9,203317,389,text-to-image,Text to Image,diffusers,diffusers,creativeml-openrail-m,,,Unknown,2024-02-18T21:05:03.000Z,2026-05-08T17:14:44.000Z
+optimum-intel-internal-testing/tiny-random-flux,192824,0,text-to-image,Text to Image,diffusers,"diffusers, safetensors",,,68484,<100M,2025-10-21T09:55:46.000Z,2025-10-21T09:55:49.000Z
+SG161222/RealVisXL_V5.0,189189,186,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail++,,2567463684,1B-5B,2024-08-05T03:49:17.000Z,2024-10-08T16:34:25.000Z
+h94/IP-Adapter-FaceID,179634,1868,text-to-image,Text to Image,diffusers,diffusers,,2308.06721,,Unknown,2023-12-20T03:15:30.000Z,2024-04-16T08:53:12.000Z
+Qwen/Qwen-Image,177489,2550,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,2508.02324,20430401088,20B-50B,2025-08-02T04:58:07.000Z,2025-08-18T02:42:19.000Z
+frankjoshua/novaAnimeXL_ilV140,168902,3,text-to-image,Text to Image,diffusers,"diffusers, safetensors",,,2567463684,1B-5B,2025-12-13T02:33:18.000Z,2025-12-13T02:34:13.000Z
+krea/Krea-2-Raw,164508,363,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,12820073036,10B-20B,2026-06-18T05:24:15.000Z,2026-07-20T05:48:52.000Z
+stable-diffusion-v1-5/stable-diffusion-inpainting,164340,115,text-to-image,Text to Image,diffusers,diffusers,creativeml-openrail-m,2207.12598,,Unknown,2024-08-30T10:08:03.000Z,2024-09-06T18:58:07.000Z
+stablediffusionapi/juggernaut-reborn,164128,3,text-to-image,Text to Image,diffusers,diffusers,creativeml-openrail-m,,,Unknown,2024-01-21T12:49:17.000Z,2024-01-21T12:51:20.000Z
+optimum-intel-internal-testing/tiny-random-latent-consistency,159600,0,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,,18592,<100M,2025-10-21T10:06:54.000Z,2025-10-21T10:06:56.000Z
+martineux/dvine82-xl,159166,0,text-to-image,Text to Image,diffusers,"diffusers, safetensors",,,2567463684,1B-5B,2026-02-04T00:16:34.000Z,2026-02-04T04:46:34.000Z
+silveroxides/Chroma-GGUF,155465,243,text-to-image,Text to Image,,gguf,apache-2.0,,,Unknown,2025-02-24T13:07:36.000Z,2025-09-11T23:13:42.000Z
+John6666/amanatsu-illustrious-v11-sdxl,153283,3,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,2567463684,1B-5B,2025-03-13T07:52:11.000Z,2025-03-13T07:59:48.000Z
+stablediffusionapi/revanimated,148533,1,text-to-image,Text to Image,diffusers,diffusers,creativeml-openrail-m,,,Unknown,2023-05-10T14:34:08.000Z,2025-01-20T11:23:05.000Z
+John6666/nova-furry-xl-il-v120-sdxl,146499,5,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,2567463684,1B-5B,2025-10-01T02:44:51.000Z,2025-10-01T02:46:03.000Z
+John6666/one-obsession-17-red-sdxl,144735,3,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,2567463684,1B-5B,2025-09-18T13:18:30.000Z,2025-09-18T13:20:00.000Z
+cagliostrolab/animagine-xl-3.1,137466,724,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail++,,2567463684,1B-5B,2024-03-13T09:40:48.000Z,2025-12-22T04:13:55.000Z
+SimianLuo/LCM_Dreamshaper_v7,124363,415,text-to-image,Text to Image,diffusers,"diffusers, onnx, safetensors",mit,2310.04378,859602884,100M-1B,2023-10-14T08:26:52.000Z,2024-03-05T08:32:22.000Z
+city96/FLUX.1-dev-gguf,124303,1385,text-to-image,Text to Image,gguf,gguf,other,,,Unknown,2024-08-15T02:27:07.000Z,2024-08-18T08:14:09.000Z
+xinsir/controlnet-union-sdxl-1.0,121829,1797,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,,1255958800,1B-5B,2024-07-07T07:41:40.000Z,2024-07-30T09:01:56.000Z
+Lykon/dreamshaper-xl-lightning,99460,78,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail++,,2567463684,1B-5B,2024-02-21T20:51:01.000Z,2024-03-01T11:46:18.000Z
+Lykon/dreamshaper-8,97452,117,text-to-image,Text to Image,diffusers,"diffusers, safetensors",creativeml-openrail-m,,859520964,100M-1B,2023-08-26T16:49:06.000Z,2023-12-07T10:14:28.000Z
+optimum-intel-internal-testing/tiny-random-sana,96751,0,text-to-image,Text to Image,diffusers,"diffusers, safetensors",,,5844,<100M,2025-10-21T10:10:16.000Z,2025-10-21T10:10:19.000Z
+diffusers/stable-diffusion-xl-1.0-inpainting-0.1,96245,378,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail++,2112.10752,2567478084,1B-5B,2023-09-01T14:07:10.000Z,2023-09-03T16:36:39.000Z
+city96/FLUX.1-schnell-gguf,94514,343,text-to-image,Text to Image,gguf,gguf,apache-2.0,,,Unknown,2024-08-15T02:30:12.000Z,2024-08-18T08:13:37.000Z
+Laxhar/noobai-XL-1.1,93375,145,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,2567463684,1B-5B,2024-11-21T13:43:47.000Z,2025-09-08T13:03:01.000Z
+latent-consistency/lcm-lora-sdv1-5,89102,530,text-to-image,Text to Image,diffusers,diffusers,openrail++,2311.05556,,Unknown,2023-11-07T11:20:24.000Z,2023-11-16T16:01:30.000Z
+SG161222/RealVisXL_V4.0,86822,291,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail++,,2567463684,1B-5B,2024-02-12T16:20:30.000Z,2024-10-08T16:34:46.000Z
+segmind/small-sd,86616,36,text-to-image,Text to Image,diffusers,diffusers,creativeml-openrail-m,2305.15798,,Unknown,2023-07-27T07:52:25.000Z,2023-08-08T07:54:00.000Z
+vantagewithai/Krea-2-Turbo-GGUF,86137,109,text-to-image,Text to Image,diffusers,"diffusers, gguf",other,,,Unknown,2026-06-23T06:37:36.000Z,2026-06-23T19:11:48.000Z
+xinsir/controlnet-openpose-sdxl-1.0,85939,302,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,2302.05543,1251014160,1B-5B,2024-05-13T14:47:50.000Z,2024-07-09T15:42:09.000Z
+ByteDance/SDXL-Lightning,84326,2175,text-to-image,Text to Image,diffusers,diffusers,openrail++,2402.13929,,Unknown,2024-02-20T20:03:33.000Z,2024-04-03T15:59:08.000Z
+Manojb/stable-diffusion-2-1-base,82364,54,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail++,2112.10752,865910724,100M-1B,2025-06-13T20:34:50.000Z,2025-06-13T20:37:56.000Z
+John6666/diving-illustrious-real-asian-v50-sdxl,80462,0,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,2567463684,1B-5B,2025-09-19T23:33:09.000Z,2025-09-19T23:46:14.000Z
+AlperKTS/Krea2_FP8,73882,97,text-to-image,Text to Image,diffusers,diffusers,other,,,Unknown,2026-06-22T23:50:01.000Z,2026-07-02T17:55:27.000Z
+lightx2v/Qwen-Image-2512-Lightning,73186,223,text-to-image,Text to Image,diffusers,diffusers,apache-2.0,,,Unknown,2025-12-31T12:13:41.000Z,2026-01-15T10:37:26.000Z
+GraydientPlatformAPI/picx-real,72752,0,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail,,859520964,100M-1B,2024-01-06T13:10:02.000Z,2024-01-06T13:23:29.000Z
+benjamin-paine/sd-xl-alternative-bases,71796,32,text-to-image,Text to Image,diffusers,diffusers,openrail++,,,Unknown,2023-10-18T23:30:11.000Z,2023-10-19T15:39:26.000Z
+Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled,70096,16,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,2405.08748,1516534048,1B-5B,2024-06-14T06:20:11.000Z,2024-06-14T09:16:20.000Z
+lodestones/Chroma1-HD,69980,381,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,,8899983424,5B-10B,2025-08-08T10:23:39.000Z,2025-10-23T09:07:42.000Z
+baidu/ERNIE-Image,69059,664,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,,8033490048,5B-10B,2026-04-07T07:26:56.000Z,2026-04-17T02:33:16.000Z
+OnomaAIResearch/Illustrious-xl-early-release-v0,66432,428,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,2409.19946,2567463684,1B-5B,2024-09-20T14:56:38.000Z,2025-02-13T01:56:00.000Z
+T5B/Z-Image-Turbo-FP8,62967,172,text-to-image,Text to Image,diffusers,diffusers,apache-2.0,,,Unknown,2025-11-26T20:43:17.000Z,2025-11-27T16:17:01.000Z
+RunDiffusion/Juggernaut-XI-v11,62710,140,text-to-image,Text to Image,diffusers,diffusers,cc-by-nc-nd-4.0,,,Unknown,2024-07-11T15:47:22.000Z,2026-05-08T17:23:19.000Z
+John6666/obsession-illustriousxl-v10-sdxl,62001,1,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,2567463684,1B-5B,2024-10-03T08:59:56.000Z,2024-12-23T06:34:26.000Z
+crynux-network/stable-diffusion-v1-5,59490,1,text-to-image,Text to Image,diffusers,"diffusers, safetensors",,1910.09700,859520964,100M-1B,2025-07-17T07:24:57.000Z,2025-07-17T08:06:30.000Z
+cagliostrolab/animagine-xl-3.0,59047,775,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail++,,2567463684,1B-5B,2023-11-23T03:57:11.000Z,2025-12-22T04:09:36.000Z
+thibaud/controlnet-openpose-sdxl-1.0,56887,422,text-to-image,Text to Image,diffusers,diffusers,other,,,Unknown,2023-08-13T18:14:13.000Z,2023-09-03T13:44:20.000Z
+John6666/janku-v5-nsfw-trained-noobai-rou-wei-illustrious-xl-v50-sdxl,55592,12,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,2567463684,1B-5B,2025-08-31T00:44:06.000Z,2025-08-31T00:49:05.000Z
+nunchaku-ai/nunchaku-qwen-image-edit,53955,119,text-to-image,Text to Image,diffusers,diffusers,apache-2.0,2411.05007,,Unknown,2025-09-10T01:16:49.000Z,2025-11-16T02:24:19.000Z
+HiDream-ai/HiDream-I1-Fast,53757,106,text-to-image,Text to Image,diffusers,"diffusers, safetensors",mit,2505.22705,17105733184,10B-20B,2025-04-06T14:18:51.000Z,2025-06-16T16:18:12.000Z
+crynux-network/sdxl-turbo,53561,3,text-to-image,Text to Image,diffusers,diffusers,apache-2.0,,,Unknown,2025-07-17T08:10:14.000Z,2025-07-23T02:37:27.000Z
+latent-consistency/lcm-lora-sdxl,53241,772,text-to-image,Text to Image,diffusers,diffusers,openrail++,2311.05556,,Unknown,2023-11-09T00:34:02.000Z,2023-11-24T13:31:08.000Z
+John6666/hassaku-xl-illustrious-v31-sdxl,52608,2,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,2567463684,1B-5B,2025-10-06T10:48:10.000Z,2025-10-06T10:48:58.000Z
+unsloth/Qwen-Image-2512-GGUF,52592,387,text-to-image,Text to Image,,gguf,apache-2.0,2508.02324,,Unknown,2025-12-30T08:09:37.000Z,2026-01-06T22:28:00.000Z
+Laxhar/noobai-XL-Vpred-1.0,52312,68,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,2567463684,1B-5B,2024-12-22T06:16:42.000Z,2025-11-19T14:39:26.000Z
+Qwen/Qwen-Image-2512,49944,910,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,2508.02324,20430401088,20B-50B,2025-12-30T02:29:01.000Z,2025-12-31T09:47:56.000Z
+cyberdelia/CyberRealistic,49251,87,text-to-image,Text to Image,diffusers,diffusers,creativeml-openrail-m,,,Unknown,2023-05-28T11:25:45.000Z,2026-04-22T08:10:21.000Z
+stabilityai/stable-diffusion-3.5-large,49120,3598,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,2403.03206,8146280768,5B-10B,2024-10-22T07:29:57.000Z,2024-10-22T14:36:33.000Z
+ostris/zimage_turbo_training_adapter,48475,146,text-to-image,Text to Image,diffusers,diffusers,apache-2.0,,,Unknown,2025-11-28T14:57:04.000Z,2025-12-01T14:17:34.000Z
+InstantX/InstantID,48388,869,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,2401.07519,,Unknown,2024-01-19T11:52:05.000Z,2024-01-22T09:43:05.000Z
+ideogram-ai/ideogram-4-fp8,47323,702,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,9281557760,5B-10B,2026-05-30T23:40:55.000Z,2026-06-03T18:34:44.000Z
+wikeeyang/Flux2-Klein-9B-True-V3,46260,103,text-to-image,Text to Image,diffusers,"diffusers, gguf",apache-2.0,,,Unknown,2026-06-25T01:41:31.000Z,2026-07-13T11:29:36.000Z
+ideogram-ai/ideogram-4-nf4,46239,440,text-to-image,Text to Image,diffusers,"diffusers, safetensors",other,,4785311179,1B-5B,2026-05-30T02:06:53.000Z,2026-06-04T18:59:26.000Z
+unsloth/Z-Image-Turbo-GGUF,46205,236,text-to-image,Text to Image,ggml,"ggml, gguf",apache-2.0,2511.22699,,Unknown,2025-12-21T22:47:59.000Z,2026-01-08T02:11:45.000Z
+lodestones/Chroma1-Flash,45262,63,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,,8899983424,5B-10B,2025-08-08T23:34:37.000Z,2025-08-22T14:20:09.000Z
+xinsir/controlnet-scribble-sdxl-1.0,44793,268,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,2302.05543,1251014160,1B-5B,2024-05-12T15:15:08.000Z,2024-07-09T15:41:26.000Z
+ByteDance/Hyper-SD,43679,1344,text-to-image,Text to Image,diffusers,diffusers,,2404.13686,,Unknown,2024-04-20T06:34:54.000Z,2024-12-05T09:02:21.000Z
+city96/Qwen-Image-gguf,43567,290,text-to-image,Text to Image,gguf,gguf,apache-2.0,,,Unknown,2025-08-05T12:18:44.000Z,2025-08-05T15:44:18.000Z
+leejet/Z-Image-Turbo-GGUF,43211,52,text-to-image,Text to Image,,gguf,apache-2.0,,,Unknown,2025-11-30T15:34:37.000Z,2025-12-02T12:31:06.000Z
+purplesmartai/pony-v7-base,42216,97,text-to-image,Text to Image,diffusers,"diffusers, gguf, safetensors",other,,6858605568,5B-10B,2025-10-22T00:28:26.000Z,2025-10-26T07:50:17.000Z
+lodestones/Chroma1-Base,41968,112,text-to-image,Text to Image,diffusers,"diffusers, safetensors",apache-2.0,,8899983424,5B-10B,2025-07-29T02:37:28.000Z,2025-08-23T10:18:47.000Z
+fancyfeast/bigaspv2-5,40304,46,text-to-image,Text to Image,diffusers,"diffusers, safetensors",,,2567463684,1B-5B,2025-07-16T18:40:24.000Z,2026-02-12T21:14:35.000Z
+diroverflo/FLux_Klein_9B_NSFW,37041,40,text-to-image,Text to Image,diffusers,diffusers,apache-2.0,,,Unknown,2026-02-24T09:30:36.000Z,2026-02-24T09:30:43.000Z
+stablediffusionapi/juggernaut-xl-v9,35174,5,text-to-image,Text to Image,diffusers,"diffusers, safetensors",creativeml-openrail-m,,2567463684,1B-5B,2024-03-19T13:19:49.000Z,2025-06-23T07:58:00.000Z
+jayn7/Z-Image-Turbo-GGUF,34378,380,text-to-image,Text to Image,,gguf,apache-2.0,,,Unknown,2025-11-27T06:37:27.000Z,2025-12-05T13:03:35.000Z
+monadical-labs/minecraft-skin-generator-sdxl,33868,30,text-to-image,Text to Image,diffusers,"diffusers, safetensors",openrail,,2567463684,1B-5B,2024-02-19T15:38:21.000Z,2024-07-22T19:37:26.000Z
